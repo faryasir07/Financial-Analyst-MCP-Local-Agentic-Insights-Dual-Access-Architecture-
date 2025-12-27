@@ -1,0 +1,19 @@
+# MCP Framework
+fastmcp>=0.1.0
+mcp[cli]
+
+# AI & Orchestration
+langchain-groq
+langgraph
+langchain-mcp-adapters>=0.2.0
+
+# Financial Data & Analytics
+yfinance
+matplotlib
+pandas
+numpy
+
+# Environment & Networking
+python-dotenv
+aiohttp
+uvicorn
